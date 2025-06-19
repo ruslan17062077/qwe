@@ -14,7 +14,7 @@
             <RowDefinition Height="8*"/>
         </Grid.RowDefinitions>
 
-        <ScrollViewer  Grid.Row="1">
+        <ScrollViewer  Grid.Row="1"> 
             <ListView x:Name="LV">
                 <ListView.ItemTemplate>
                     <DataTemplate>
@@ -31,7 +31,7 @@
                                     <TextBlock Text="{Binding Partners_type.name }" FontSize="16"></TextBlock>
                                     <TextBlock FontSize="16"> | </TextBlock>
                                     <TextBlock Text="{Binding name}" FontSize="16"></TextBlock>
-                                    
+                                     
                                 </StackPanel>
                                 <StackPanel Orientation="Horizontal">
                                     <TextBlock>Юридический адресс:</TextBlock>
@@ -46,17 +46,17 @@
                                     <TextBlock>Рейтинг:</TextBlock>
                                     <TextBlock Margin="10 0 0 0" Text="{Binding rang}"></TextBlock>
                                 </StackPanel>
-                            </StackPanel>
+                            </StackPanel> 
                             <StackPanel Orientation="Horizontal" Grid.Column="1">
                                 <TextBlock>Стоймость</TextBlock>
                                     <TextBlock Margin="10 0 0 0" Text="{Binding Sum, StringFormat= N2}"></TextBlock>
-                            </StackPanel>
+                            </StackPanel>  
                         </Grid>
-                        </Border>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-            </ListView>
-        </ScrollViewer>
+                        </Border> 
+                    </DataTemplate>  
+                </ListView.ItemTemplate> 
+            </ListView> 
+        </ScrollViewer> 
 
     </Grid>
 </Page>
