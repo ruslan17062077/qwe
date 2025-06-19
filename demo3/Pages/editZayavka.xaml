@@ -1,0 +1,53 @@
+﻿<Page x:Class="demo3.Pages.editZayavka"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:demo3.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="editZayavka">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="47*"/>
+            <ColumnDefinition Width="113*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="1" Grid.Column="0" >Тип партнера</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="0" >Название</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="0" >Фио директора</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="0" >почта</TextBlock>
+        <TextBlock Grid.Row="5" Grid.Column="0" >телефон</TextBlock>
+        <TextBlock Grid.Row="6" Grid.Column="0" >адресс</TextBlock>
+        <TextBlock Grid.Row="7" Grid.Column="0" >ИНН</TextBlock>
+        <TextBlock Grid.Row="8" Grid.Column="0" >Рейтинг</TextBlock>
+
+
+        <ComboBox Grid.Row="1" Grid.Column="1" Name="type_partnerCb"  DisplayMemberPath="name"></ComboBox>
+        <TextBox Grid.Row="2" Grid.Column="1" Name="nameTb" ></TextBox>
+        <TextBox Grid.Row="3" Grid.Column="1" Name="name_directorTb" ></TextBox>
+        <TextBox Grid.Row="4" Grid.Column="1" Name="emailTb" ></TextBox>
+        <TextBox Grid.Row="5" Grid.Column="1" Name="phoneTb" ></TextBox>
+        <TextBox Grid.Row="6" Grid.Column="1" Name="adressTb" ></TextBox>
+        <TextBox Grid.Row="7" Grid.Column="1" Name="innTb" ></TextBox>
+        <TextBox Grid.Row="8" Grid.Column="1" Name="rangTb" ></TextBox>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="9" Grid.ColumnSpan="2">
+            <Button x:Name="goback" Margin="10" Click="goback_Click">назад</Button>
+            <Button x:Name="save" Margin="10" Click="save_Click">сохранить</Button>
+        </StackPanel>
+
+    </Grid>
+</Page>

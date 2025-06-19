@@ -13,17 +13,26 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace demo3
+namespace demo3.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для HomePage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class HomePage : Page
     {
-        public MainWindow()
+        public HomePage()
         {
             InitializeComponent();
-            MainFrame.NavigationService.Navigate(new Pages.HomePage());
+        }
+
+        private void navZaya_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new ZayavkaPartnerListPage());
+        }
+
+        private void navprod_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new qwe());
         }
     }
 }

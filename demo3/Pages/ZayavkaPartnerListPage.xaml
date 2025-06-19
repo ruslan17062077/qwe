@@ -13,9 +13,16 @@
             <RowDefinition/>
             <RowDefinition Height="8*"/>
         </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Button Margin="5" x:Name="goback" Click="goback_Click" >назад</Button>
+            <TextBlock VerticalAlignment="Center" Margin="10 0 10 0">
+        Страница заявок
+            </TextBlock>
+            <Button x:Name="add" Click="add_Click">добавить заявку</Button>
+        </StackPanel>
 
         <ScrollViewer  Grid.Row="1"> 
-            <ListView x:Name="LV">
+            <ListView x:Name="LV" SelectionChanged="LV_SelectionChanged">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <Border BorderBrush="Black" BorderThickness="1" Margin="5">

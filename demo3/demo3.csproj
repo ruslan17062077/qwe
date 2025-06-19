@@ -97,6 +97,7 @@
       <DependentUpon>Model1.edmx</DependentUpon>
     </Compile>
     <Compile Include="Db\partial\Partners.cs" />
+    <Compile Include="Db\partial\Product.cs" />
     <Compile Include="Db\Partners.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -128,12 +129,40 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\AddPartner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\editZayavka.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\HomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\qwe.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Pages\ZayavkaPartnerListPage.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\AddPartner.xaml.cs">
+      <DependentUpon>AddPartner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\editZayavka.xaml.cs">
+      <DependentUpon>editZayavka.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\qwe.xaml.cs">
+      <DependentUpon>qwe.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Pages\ZayavkaPartnerListPage.xaml.cs">
       <DependentUpon>ZayavkaPartnerListPage.xaml</DependentUpon>
     </Compile>

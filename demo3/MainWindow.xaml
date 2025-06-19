@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:demo3"
         mc:Ignorable="d"
-        Title="Приложение" Height="450" Width="800" Icon="/Images/Новые технологии.ico">
+        Title="Приложение" Height="450" Width="800" Icon="/Images/Новые технологии.ico" >
     <Grid>
-        <Frame x:Name="MainFrame"></Frame>
+        <Frame NavigationUIVisibility="Hidden" x:Name="MainFrame"></Frame>
     </Grid>
 </Window>

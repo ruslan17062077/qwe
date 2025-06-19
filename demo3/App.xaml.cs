@@ -1,4 +1,5 @@
 ﻿using demo3.Db;
+using demo3.Pages;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -15,5 +16,6 @@ namespace demo3
     public partial class App : Application
     {
         public static demo3Entities db = new demo3Entities();
+        public static ZayavkaPartnerListPage zayavka;
     }
 }

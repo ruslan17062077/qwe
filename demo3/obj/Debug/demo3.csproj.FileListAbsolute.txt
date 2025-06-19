@@ -22,3 +22,11 @@ C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\demo3.csproj.CoreCompileInput
 C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\demo3.csproj.Up2Date
 C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\demo3.exe
 C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\demo3.pdb
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\qwe.g.cs
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\qwe.baml
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\AddPartner.g.cs
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\editZayavka.g.cs
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\AddPartner.baml
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\editZayavka.baml
+C:\Users\Ruslan\source\repos\demo3\demo3\obj\Debug\Pages\HomePage.baml

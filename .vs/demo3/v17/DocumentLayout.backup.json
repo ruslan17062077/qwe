@@ -3,28 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Ruslan\\source\\repos\\demo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\zayavkapartnerlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\zayavkapartnerlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\pages\\zayavkapartnerlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\zayavkapartnerlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\db\\partial\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\db\\partial\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\qwe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\qwe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\editzayavka.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\editzayavka.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\addpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\addpartner.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\pages\\zayavkapartnerlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\zayavkapartnerlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\zayavkapartnerlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\zayavkapartnerlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\editzayavka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\editzayavka.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\pages\\qwe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\pages\\qwe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|c:\\users\\ruslan\\source\\repos\\demo3\\demo3\\db\\partial\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\db\\partial\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\db\\partial\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|solutionrelative:demo3\\db\\partial\\partners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118883B1-71E0-488A-9FBF-77BEFBD7A234}|demo3\\demo3.csproj|C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\db\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
@@ -42,35 +78,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "AddPartner.xaml",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\AddPartner.xaml",
+              "RelativeDocumentMoniker": "demo3\\Pages\\AddPartner.xaml",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\AddPartner.xaml",
+              "RelativeToolTip": "demo3\\Pages\\AddPartner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T20:22:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ZayavkaPartnerListPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\ZayavkaPartnerListPage.xaml.cs",
               "RelativeDocumentMoniker": "demo3\\Pages\\ZayavkaPartnerListPage.xaml.cs",
               "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\ZayavkaPartnerListPage.xaml.cs",
               "RelativeToolTip": "demo3\\Pages\\ZayavkaPartnerListPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAASwC0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:26:24.684Z"
+              "WhenOpened": "2025-06-19T18:26:24.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Partners.cs",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\partial\\Partners.cs",
-              "RelativeDocumentMoniker": "demo3\\Db\\partial\\Partners.cs",
-              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\partial\\Partners.cs",
-              "RelativeToolTip": "demo3\\Db\\partial\\Partners.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:20:15.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "ZayavkaPartnerListPage.xaml",
               "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\ZayavkaPartnerListPage.xaml",
               "RelativeDocumentMoniker": "demo3\\Pages\\ZayavkaPartnerListPage.xaml",
@@ -82,30 +119,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\Model1.edmx",
-              "RelativeDocumentMoniker": "demo3\\Db\\Model1.edmx",
-              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "demo3\\Db\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-06-19T18:05:32.24Z"
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "demo3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml",
+              "RelativeToolTip": "demo3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T18:03:11.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "demo3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "demo3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:03:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "qwe.xaml",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\qwe.xaml",
+              "RelativeDocumentMoniker": "demo3\\Pages\\qwe.xaml",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\qwe.xaml",
+              "RelativeToolTip": "demo3\\Pages\\qwe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T18:57:24.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pages\\editZayavka.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\editZayavka.xaml.cs",
+              "RelativeDocumentMoniker": "demo3\\Pages\\editZayavka.xaml.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\editZayavka.xaml.cs",
+              "RelativeToolTip": "demo3\\Pages\\editZayavka.xaml.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwKEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:54:53.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\App.xaml.cs",
               "RelativeDocumentMoniker": "demo3\\App.xaml.cs",
               "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\App.xaml.cs",
               "RelativeToolTip": "demo3\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:04:08.732Z"
+              "WhenOpened": "2025-06-19T18:04:08.732Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "Pages\\AddPartner.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\AddPartner.xaml.cs",
+              "RelativeDocumentMoniker": "demo3\\Pages\\AddPartner.xaml.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\AddPartner.xaml.cs",
+              "RelativeToolTip": "demo3\\Pages\\AddPartner.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:27:30.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "demo3\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "demo3\\Pages\\HomePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T20:50:30.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pages\\HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "demo3\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "demo3\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:52:46.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "editZayavka.xaml",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\editZayavka.xaml",
+              "RelativeDocumentMoniker": "demo3\\Pages\\editZayavka.xaml",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\editZayavka.xaml",
+              "RelativeToolTip": "demo3\\Pages\\editZayavka.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-19T20:54:40.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "qwe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\qwe.xaml.cs",
+              "RelativeDocumentMoniker": "demo3\\Pages\\qwe.xaml.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Pages\\qwe.xaml.cs",
+              "RelativeToolTip": "demo3\\Pages\\qwe.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:58:55.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\App.xaml",
               "RelativeDocumentMoniker": "demo3\\App.xaml",
@@ -117,26 +257,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "demo3\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml",
-              "RelativeToolTip": "demo3\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-19T18:03:11.857Z"
+              "DocumentIndex": 14,
+              "Title": "Partners.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\partial\\Partners.cs",
+              "RelativeDocumentMoniker": "demo3\\Db\\partial\\Partners.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\partial\\Partners.cs",
+              "RelativeToolTip": "demo3\\Db\\partial\\Partners.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:20:15.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "demo3\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\MainWindow.xaml.cs",
-              "RelativeToolTip": "demo3\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\partial\\Product.cs",
+              "RelativeDocumentMoniker": "demo3\\Db\\partial\\Product.cs",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\partial\\Product.cs",
+              "RelativeToolTip": "demo3\\Db\\partial\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:03:11.207Z"
+              "WhenOpened": "2025-06-19T19:06:59.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\Model1.edmx",
+              "RelativeDocumentMoniker": "demo3\\Db\\Model1.edmx",
+              "ToolTip": "C:\\Users\\Ruslan\\source\\repos\\demo3\\demo3\\Db\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "demo3\\Db\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-19T18:05:32.24Z"
             }
           ]
         }
