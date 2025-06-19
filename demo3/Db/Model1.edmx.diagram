@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7b9cda14d63f4e9dac7ca307658bdb98" Name="Diagram1">
+        <EntityTypeShape EntityType="demo3Model.Material_product" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Material_type" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Materials" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Partner_product" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Partners" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Partners_product_request" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Partners_type" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Product" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.Product_type" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo3Model.sysdiagrams" Width="1.5" PointX="7.75" PointY="2" IsExpanded="true" />
+        <AssociationConnector Association="demo3Model.FK_Material_product_Materials" ManuallyRouted="false" />
+        <AssociationConnector Association="demo3Model.FK_Material_product_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="demo3Model.FK_Materials_Material_type" ManuallyRouted="false" />
+        <AssociationConnector Association="demo3Model.FK_Partner_product_Partners" ManuallyRouted="false" />
+        <AssociationConnector Association="demo3Model.FK_Partner_product_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="demo3Model.FK_Partners_Partners_type" ManuallyRouted="false" />
+        <AssociationConnector Association="demo3Model.FK_Product_Product_type" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
